@@ -9,5 +9,8 @@ Nesse projeto, foi abordado o conceito sobre CSS Flexbox e responsividade.
 ![Página](https://i.imgur.com/0q1WfJh.png "Página")
 
 
-#### Projeto realizado no bootcamp html web developer da DIO: 
+#### Projeto realizado no bootcamp html web developer da DIO:
+##### Obs. Foram feitas pequenas alterações no estilo
+
 #### https://web.digitalinnovation.one/track/html-web-developer
+
